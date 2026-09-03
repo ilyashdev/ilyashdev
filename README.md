@@ -1,29 +1,26 @@
-# 💫 About Me:
-Backend developer specializing in C# and .NET Core. I focus on building clean, maintainable backend systems: from monolithic architectures to microservices.
+## Ilya Shulha
 
-🔧 I have hands-on experience with REST API development, service-oriented design. I understand application development across different stages like architecture decisions, implementation and testing.
+Backend developer working with .NET and Go. Interested in how things work
+under the hood — HTTP servers, DI containers, request pipelines, media encoding.
 
-🚀 Looking to gain commercial experience and grow as a software engineer,so highly motivated to contribute and learn.
+**Stack:** C# · .NET 9 · ASP.NET Core · Go · PostgreSQL · EF Core · Docker
 
-🛠️ Tech stack:
+---
 
-Languages: C#
+### Projects
 
-Frameworks: .NET Core, ASP.NET Core, Entity Framework Core
+**[TinyNet](https://github.com/ilyashdev/TinyNet)** — C#, .NET 9
+A minimal HTTP web framework built from scratch. TCP accept loop, DI container
+with three service lifetimes, middleware pipeline, attribute-based routing and a
+multi-provider configuration system. Constructor invocation is compiled via
+`Expression.Lambda` instead of reflection.
 
-Databases: PostgreSQL, Redis
+**[MediaBoy](https://github.com/ilyashdev/MediaBoy)** — Go
+A desktop app that turns photos, GIFs, videos and music into real Game Boy /
+Game Boy Color ROMs. Includes a native Go port of the GBVideoPlayer2 encoder,
+parallelised across CPU cores, with an automatic search for the best quality
+that fits a given ROM size.
 
-Message Brokers: RabbitMQ
+---
 
-Architecture: Microservices, Monoliths, REST APIs, CQRS, Clean Architecture
-
-Tools: Docker, Git
-
-Testing: NUnit
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ilya-shulha-758179336/) 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[LinkedIn](https://www.linkedin.com/in/ilya-shulha-758179336/)
