@@ -17,7 +17,7 @@ multi-provider configuration system. Constructor invocation is compiled via
 
 **[MediaBoy](https://github.com/ilyashdev/MediaBoy)** — Go
 A desktop app that turns photos, GIFs, videos and music into real Game Boy /
-Game Boy Color ROMs. Includes a native Go port of the GBVideoPlayer2 encoder,
+Game Boy Color ROMs. Includes a port of GBVideoPlayer2 encoder,
 parallelised across CPU cores, with an automatic search for the best quality
 that fits a given ROM size.
 
