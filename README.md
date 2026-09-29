@@ -9,13 +9,13 @@ under the hood — HTTP servers, DI containers, request pipelines, media encodin
 
 ### Projects
 
-**[TinyNet](https://github.com/ilyashdev/TinyNet)** — C#, .NET 9
+**[TinyNet](https://github.com/ilyashdev/TinyNet)** - C#, .NET 9
 A minimal HTTP web framework built from scratch. TCP accept loop, DI container
 with three service lifetimes, middleware pipeline, attribute-based routing and a
 multi-provider configuration system. Constructor invocation is compiled via
 `Expression.Lambda` instead of reflection.
 
-**[MediaBoy](https://github.com/ilyashdev/MediaBoy)** — Go
+**[MediaBoy](https://github.com/ilyashdev/MediaBoy)** - Go
 A desktop app that turns photos, GIFs, videos and music into real Game Boy /
 Game Boy Color ROMs. Includes a port of GBVideoPlayer2 encoder,
 parallelised across CPU cores, with an automatic search for the best quality
