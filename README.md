@@ -3,7 +3,7 @@
 Backend developer working with .NET and Go. Interested in how things work
 under the hood — HTTP servers, DI containers, request pipelines, media encoding.
 
-**Stack:** C# · .NET 9 · ASP.NET Core · Go · PostgreSQL · EF Core · Docker
+**Stack:** C# · .NET 10 · ASP.NET Core · Go · PostgreSQL · EF Core · Docker
 
 ---
 
